@@ -1,9 +1,15 @@
-# Landing Page Project
+# name
 
-## Table of Contents
+Landing Page Project
 
-- [Instructions](#instructions)
+# Description
 
-This project is a multi-section landing page. Often times, we don’t know how much content will be added to a page through a CMS or an API. To circumvent this problem, we can dynamically add the content to the page.
+This is a multi-section landing page.
 
-To improve the user experience, the section actively being viewed should be differentiated in some way. Additionally, when a user clicks on a navigation item, the item should scroll you to the appropriate section rather than giving you the default jump.
+# Features
+
+    * Create a navigation menu dynamically based on the sections of the page. This can be a particularly useful trick when you begin working with content management systems or APIs when you are uncertain of where the items will be.
+
+    * While navigating through the page, the section that is active in the viewport/closest to the top should is distinguished from the other sections.
+
+    * Clicking on a navigation item should scroll to the appropriate section of the page.
